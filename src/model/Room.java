@@ -1,5 +1,11 @@
 package model;
 
+/*
+* Ya
+*
+*/
+
+
 public class Room {
 	
 	private boolean explored;
